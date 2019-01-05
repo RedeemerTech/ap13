@@ -10,7 +10,7 @@
 * the docs/CREDITS.txt file.
 *
 */
-
+/*this is the sample*/
 /**
 * @ignore
 */
