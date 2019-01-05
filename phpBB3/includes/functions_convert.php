@@ -11,6 +11,7 @@
 *
 */
 /*this is the sample*/
+/*this is sample&*/
 /**
 * @ignore
 */
